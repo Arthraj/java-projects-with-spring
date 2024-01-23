@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arthrajrathore
+ *
+ */
+module PublicationsProject {
+}
